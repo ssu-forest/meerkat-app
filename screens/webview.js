@@ -29,7 +29,7 @@ export default () => {
           source={{
             uri: 'https://meerkat-test.herokuapp.com/',
           }}
-          scalesPageToFit={Platform.OS === 'android'}
+          scalesPageToFit={!Platform.OS === 'android'}
         />
       </View>
     </SafeAreaView>
