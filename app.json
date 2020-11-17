@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "meerkat-app",
+    "name": "미어캣",
     "slug": "meerkat-app",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
